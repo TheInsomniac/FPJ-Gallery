@@ -48,3 +48,7 @@ CSS and JS are served from their respectively named directories.
 + Bootstrap w/ Simplex Theme
 + JQuery Swipebox
 + JQUery Loadimage
+
+![Screenshot](https://raw.github.com/manxam/FPJ-Gallery/master/screenshots/index1.png)
+![Screenshot](https://raw.github.com/manxam/FPJ-Gallery/master/screenshots/index2.png)
+![Screenshot](https://raw.github.com/manxam/FPJ-Gallery/master/screenshots/gallery.png)
